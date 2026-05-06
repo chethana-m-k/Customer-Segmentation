@@ -1,4 +1,4 @@
-**Customer Segmentation Using Clustering Algorithms**
+## Customer Segmentation Using Clustering Algorithms
 
 This project performs **customer segmentation** using **unsupervised machine learning** techniques on a dataset containing customer demographics and behavior such as **Age, Annual Income, and Spending Score**.
 
